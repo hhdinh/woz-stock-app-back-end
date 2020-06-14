@@ -1,0 +1,27 @@
+[
+    {
+      "quantity": 1,
+      "type": "BUY",
+      "price": 50000,
+      "totalValue": 50000,
+      "userId": 1,
+      "stockId": 1
+    },
+    {
+      "quantity": 2,
+      "type": "BUY",
+      "price": 50000,
+      "totalValue": 100000,
+      "userId": 1,
+      "stockId": 2
+    },
+    {
+      "quantity": 1,
+      "type": "BUY",
+      "price": 50000,
+      "totalValue": 50000,
+      "userId": 1,
+      "stockId": 3
+    }
+  ]
+  
